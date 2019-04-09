@@ -42,6 +42,7 @@
 					</Node>
 					<Node name="1">
 						<Node name="editor">
+							<Node name="{4f9540d5-d9ab-44cd-8dca-73f5f2e7a572}"/>
 							<Node name="{8c45957c-f4b3-4dd7-9212-49cbd350f69f}">
 								<Prp name="key" type="S" value="{4323C7E3-3C9F-4B93-BCEF-CDD9EE1473E6}"/>
 							</Node>
@@ -58,6 +59,7 @@
 								</Node>
 								<Prp name="key" type="S" value="{5D12C4BF-69DA-4297-96A4-92F0D4E34C35}"/>
 							</Node>
+							<Node name="{eb7c9d82-bc63-4167-ad95-a6b053bbda71}"/>
 							<Prp name="editor" type="S" value="{EB38C1A4-022A-4943-A8AC-E33979684E66}"/>
 							<Prp name="focused" type="S" value="{5D12C4BF-69DA-4297-96A4-92F0D4E34C35}"/>
 						</Node>
@@ -81,6 +83,12 @@
 			<Node name="{86873e45-42bf-4c44-8fbd-d6bdfbfd5189}"/>
 			<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
 				<Node name="{90fe4d39-229d-4887-ac6f-07b02ce523fc}">
+					<Node name="{3ced62bb-439a-4131-93ab-6173cff1e6af}\testdata">
+						<Node name="expanding"/>
+					</Node>
+					<Node name="{46e08738-798c-4719-abba-3cac719ca14f}\testdata">
+						<Node name="expanding"/>
+					</Node>
 					<Node name="{bf490b1b-57a8-4145-8170-58ae5a67105d}\testdata">
 						<Node name="expanding">
 							<Prp name="expandlist" type="H" value="617162696E000000010000003400000078016362606060046266208601101F04982014580E260612020001DC000E"/>
@@ -122,9 +130,7 @@
 						<Node name="testedapps"/>
 					</Node>
 				</Node>
-				<Node name="prueba logs">
-					<Node name="prueba logs"/>
-				</Node>
+				<Node name="prueba logs"/>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{8EBE6EB3-803D-4913-AD7A-D71552123A67}"/>
