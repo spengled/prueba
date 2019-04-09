@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE Nodes [
+
+<!ENTITY % NameValue "CDATA">
+<!ENTITY % PropType "(I|S|D|L|H|B)">
+<!ENTITY % VersionValue "CDATA">
+
+<!ELEMENT Prp (#PCDATA)>
+<!ELEMENT Node (Node|Prp)*>
+<!ELEMENT Nodes (Node)+>
+
+<!ATTLIST Nodes version CDATA "1">
+
+<!ATTLIST Node name CDATA #REQUIRED>
+
+<!ATTLIST Prp name CDATA #REQUIRED>
+<!ATTLIST Prp type CDATA #REQUIRED>
+<!ATTLIST Prp value CDATA #REQUIRED>
+]>
+<Nodes version="1">
+	<Node name="root">
+		<Node name="message 4">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="click point x" type="I" value="-803"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="click point y" type="I" value="-449"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="112"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="224"/>
+					<Prp name="datetime" type="D" value="43564.5411805556"/>
+					<Prp name="object left" type="I" value="83"/>
+					<Prp name="object bottom" type="I" value="133"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.Panel1.txt_password"/>
+					<Prp name="image file name" type="S" value="tcvi6558585950963.png"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="image file name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="4"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="112"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="224"/>
+					<Prp name="datetime" type="D" value="43564.5506070949"/>
+					<Prp name="object left" type="I" value="83"/>
+					<Prp name="object bottom" type="I" value="133"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.Panel1.txt_password"/>
+					<Prp name="image file name" type="S" value="visImage3.png"/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="4"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="4"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839409722"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.CRM.LoginForm.Panel1.txt_password&#xA;(Sys.Process(&quot;CRM&quot;).VCLObject(&quot;LoginForm&quot;).VCLObject(&quot;Panel1&quot;).VCLObject(&quot;txt_password&quot;))"/>
+			<Prp name="message" type="S" value="The text '123123' was entered in the text editor."/>
+		</Node>
+		<Node name="stack"/>
+		<Node name="message 7">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="click point x" type="I" value="540"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="click point y" type="I" value="131"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="116"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="560"/>
+					<Prp name="datetime" type="D" value="43564.5412615741"/>
+					<Prp name="object left" type="I" value="485"/>
+					<Prp name="object bottom" type="I" value="141"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.frmMsgBoxCN.Panel1.btnAceptar"/>
+					<Prp name="image file name" type="S" value="tcvi6559292150966.png"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="image file name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="click point x" type="I" value="522"/>
+					<Prp name="line #" type="I" value="7"/>
+					<Prp name="click point y" type="I" value="128"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="116"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="560"/>
+					<Prp name="datetime" type="D" value="43564.5506249653"/>
+					<Prp name="object left" type="I" value="485"/>
+					<Prp name="object bottom" type="I" value="141"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.frmMsgBoxCN.Panel1.btnAceptar"/>
+					<Prp name="image file name" type="S" value="visImage6.png"/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="7"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="7"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839592708"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.CRM.frmMsgBoxCN.Panel1.btnAceptar&#xA;(Sys.Process(&quot;CRM&quot;).VCLObject(&quot;frmMsgBoxCN&quot;).VCLObject(&quot;Panel1&quot;).VCLObject(&quot;btnAceptar&quot;))"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="child data"/>
+		<Node name="message 0">
+			<Prp name="line no" type="I" value="0"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="0"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839085532"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="0"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="The process ID is 8528."/>
+			<Prp name="message" type="S" value="The application &quot;C:\Users\QA-TEST-1\Desktop\KTC-BO-INTERVIAL-QA\CRM\CRM.exe&quot; started."/>
+		</Node>
+		<Node name="message 1">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="click point x" type="I" value="167"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="click point y" type="I" value="77"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="69"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="204"/>
+					<Prp name="datetime" type="D" value="43564.5410648148"/>
+					<Prp name="object left" type="I" value="88"/>
+					<Prp name="object bottom" type="I" value="84"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.Panel1.txt_usuario.Edit"/>
+					<Prp name="image file name" type="S" value="tcvi6557612550960.png"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="image file name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="click point x" type="I" value="167"/>
+					<Prp name="line #" type="I" value="1"/>
+					<Prp name="click point y" type="I" value="77"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="69"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="204"/>
+					<Prp name="datetime" type="D" value="43564.5506017708"/>
+					<Prp name="object left" type="I" value="88"/>
+					<Prp name="object bottom" type="I" value="84"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.Panel1.txt_usuario.Edit"/>
+					<Prp name="image file name" type="S" value="visImage0.png"/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="1"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="1"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839360301"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (79, 8) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.CRM.LoginForm.Panel1.txt_usuario.Edit&#xA;(Sys.Process(&quot;CRM&quot;).VCLObject(&quot;LoginForm&quot;).VCLObject(&quot;Panel1&quot;).VCLObject(&quot;txt_usuario&quot;).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 8">
+			<Prp name="line no" type="I" value="8"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="8"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839653935"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value="Picture1.png"/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="7"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="-1"/>
+			<Prp name="remarks" type="S" value="&lt;h3&gt;Result&lt;/h3&gt;&lt;span&gt;The property checkpoint &lt;b&gt;passed&lt;/b&gt;: Aliases.CRM.MainForm.TPanel.TPanel.TNoDrawPanel.Enabled&lt;b&gt; equals &lt;/b&gt;true.&lt;/span&gt;&lt;h3&gt;Details&lt;/h3&gt;&lt;table style='width: 100%'&gt;&lt;tr&gt;&lt;th style='width: 10%'&gt;Object&lt;/th&gt;&lt;td&gt;&lt;a href='lnamemapping://{7CF0137B-2551-4432-A6A2-4F171D9611D2}.{F2B84829-9CE2-4A3B-8B37-8C450D639DBA}'&gt;Aliases.CRM.MainForm.TPanel.TPanel.TNoDrawPanel&lt;/a&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Property&lt;/th&gt;&lt;td&gt;Enabled&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Condition&lt;/th&gt;&lt;td&gt;equals&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Actual value&lt;/th&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;th&gt;Expected value&lt;/th&gt;&lt;td&gt;true&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;"/>
+			<Prp name="message" type="S" value="The property checkpoint passed: Enabled equals true."/>
+		</Node>
+		<Node name="message 2">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="click point x" type="I" value="-803"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-449"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="69"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="204"/>
+					<Prp name="datetime" type="D" value="43564.5411111111"/>
+					<Prp name="object left" type="I" value="88"/>
+					<Prp name="object bottom" type="I" value="84"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.Panel1.txt_usuario.Edit"/>
+					<Prp name="image file name" type="S" value="tcvi6557837550961.png"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="image file name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="2"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="69"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="204"/>
+					<Prp name="datetime" type="D" value="43564.5506035532"/>
+					<Prp name="object left" type="I" value="88"/>
+					<Prp name="object bottom" type="I" value="84"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.Panel1.txt_usuario.Edit"/>
+					<Prp name="image file name" type="S" value="visImage1.png"/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="2"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="2"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839374537"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.CRM.LoginForm.Panel1.txt_usuario.Edit&#xA;(Sys.Process(&quot;CRM&quot;).VCLObject(&quot;LoginForm&quot;).VCLObject(&quot;Panel1&quot;).VCLObject(&quot;txt_usuario&quot;).Window(&quot;Edit&quot;, &quot;&quot;, 1))"/>
+			<Prp name="message" type="S" value="The text 'spengled' was entered in the text editor."/>
+		</Node>
+		<Node name="message 3">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="click point x" type="I" value="143"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="click point y" type="I" value="122"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="112"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="224"/>
+					<Prp name="datetime" type="D" value="43564.5411574074"/>
+					<Prp name="object left" type="I" value="83"/>
+					<Prp name="object bottom" type="I" value="133"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.Panel1.txt_password"/>
+					<Prp name="image file name" type="S" value="tcvi6558426550962.png"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage2_Dif.png"/>
+				</Node>
+				<Node name="current">
+					<Prp name="click point x" type="I" value="143"/>
+					<Prp name="line #" type="I" value="3"/>
+					<Prp name="click point y" type="I" value="122"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="112"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="224"/>
+					<Prp name="datetime" type="D" value="43564.5506052199"/>
+					<Prp name="object left" type="I" value="83"/>
+					<Prp name="object bottom" type="I" value="133"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.Panel1.txt_password"/>
+					<Prp name="image file name" type="S" value="visImage2.png"/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="3"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="3"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839395486"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="A click at point (60, 10) with no key pressed.&#xA;&#xA;Tested object:&#xA;Aliases.CRM.LoginForm.Panel1.txt_password&#xA;(Sys.Process(&quot;CRM&quot;).VCLObject(&quot;LoginForm&quot;).VCLObject(&quot;Panel1&quot;).VCLObject(&quot;txt_password&quot;))"/>
+			<Prp name="message" type="S" value="The window was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 6">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="click point x" type="I" value="424"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="click point y" type="I" value="247"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="238"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="datetime" type="D" value="43564.5412268518"/>
+					<Prp name="object left" type="I" value="393"/>
+					<Prp name="object bottom" type="I" value="263"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.FrmMsgBoxErr.nb.TPage.Button2"/>
+					<Prp name="image file name" type="S" value="tcvi6559043750965.png"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="image file name" type="S" value=""/>
+				</Node>
+				<Node name="current">
+					<Prp name="click point x" type="I" value="430"/>
+					<Prp name="line #" type="I" value="6"/>
+					<Prp name="click point y" type="I" value="250"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="238"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="468"/>
+					<Prp name="datetime" type="D" value="43564.550612338"/>
+					<Prp name="object left" type="I" value="393"/>
+					<Prp name="object bottom" type="I" value="263"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.FrmMsgBoxErr.nb.TPage.Button2"/>
+					<Prp name="image file name" type="S" value="visImage5.png"/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="6"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="6"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839466667"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.CRM.FrmMsgBoxErr.nb.TPage.Button2&#xA;(Sys.Process(&quot;CRM&quot;).VCLObject(&quot;FrmMsgBoxErr&quot;).VCLObject(&quot;nb&quot;).Window(&quot;TPage&quot;, &quot;&quot;, 1).VCLObject(&quot;Button2&quot;))"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="message 9">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="1928"/>
+					<Prp name="datetime" type="D" value="43564.5414814815"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="object bottom" type="I" value="1048"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.MainForm"/>
+					<Prp name="image file name" type="S" value="tcvi65611921509610.png"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage8_Dif.png"/>
+				</Node>
+				<Node name="current">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="9"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-8"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="1928"/>
+					<Prp name="datetime" type="D" value="43564.5506343634"/>
+					<Prp name="object left" type="I" value="-8"/>
+					<Prp name="object bottom" type="I" value="1048"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.MainForm"/>
+					<Prp name="image file name" type="S" value="visImage8.png"/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="9"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="9"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839692708"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.CRM.MainForm.MainMenu&#xA;(Sys.Process(&quot;CRM&quot;).VCLObject(&quot;MainForm&quot;).MainMenu)"/>
+			<Prp name="message" type="S" value="The menu item '[0]|[0]' was clicked."/>
+		</Node>
+		<Node name="message 5">
+			<Node name="visualizer">
+				<Node name="original">
+					<Prp name="click point x" type="I" value="168"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="click point y" type="I" value="166"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="154"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="221"/>
+					<Prp name="datetime" type="D" value="43564.5412037037"/>
+					<Prp name="object left" type="I" value="146"/>
+					<Prp name="object bottom" type="I" value="179"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.btn_ok"/>
+					<Prp name="image file name" type="S" value="tcvi6558834350964.png"/>
+				</Node>
+				<Node name="diff">
+					<Prp name="click point x" type="I" value="-1"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="click point y" type="I" value="-1"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="-1"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="-1"/>
+					<Prp name="datetime" type="D" value="0"/>
+					<Prp name="object left" type="I" value="-1"/>
+					<Prp name="object bottom" type="I" value="-1"/>
+					<Prp name="object name" type="S" value=""/>
+					<Prp name="image file name" type="S" value="visImage4_Dif.png"/>
+				</Node>
+				<Node name="current">
+					<Prp name="click point x" type="I" value="183"/>
+					<Prp name="line #" type="I" value="5"/>
+					<Prp name="click point y" type="I" value="166"/>
+					<Prp name="version" type="I" value="2"/>
+					<Prp name="signature" type="S" value="{87B03792-E854-4F5D-9F33-165F1F874209}"/>
+					<Prp name="need update" type="B" value="0"/>
+					<Prp name="kind" type="I" value="0"/>
+					<Prp name="rect color" type="I" value="255"/>
+					<Prp name="object top" type="I" value="154"/>
+					<Prp name="storage file name" type="S" value=""/>
+					<Prp name="object right" type="I" value="221"/>
+					<Prp name="datetime" type="D" value="43564.5506087153"/>
+					<Prp name="object left" type="I" value="146"/>
+					<Prp name="object bottom" type="I" value="179"/>
+					<Prp name="object name" type="S" value="Aliases.CRM.LoginForm.btn_ok"/>
+					<Prp name="image file name" type="S" value="visImage4.png"/>
+				</Node>
+			</Node>
+			<Prp name="line no" type="I" value="5"/>
+			<Prp name="owner id" type="I" value="-1"/>
+			<Prp name="id" type="I" value="5"/>
+			<Prp name="pictype" type="I" value="0"/>
+			<Prp name="date" type="D" value="43564.3839430671"/>
+			<Prp name="priority" type="I" value="300"/>
+			<Prp name="picture" type="S" value=""/>
+			<Prp name="unit id" type="I" value="0"/>
+			<Prp name="type" type="I" value="1"/>
+			<Prp name="link" type="S" value=""/>
+			<Prp name="child index" type="I" value="-1"/>
+			<Prp name="as html" type="B" value="0"/>
+			<Prp name="remarks" type="S" value="Tested object:&#xA;Aliases.CRM.LoginForm.btn_ok&#xA;(Sys.Process(&quot;CRM&quot;).VCLObject(&quot;LoginForm&quot;).VCLObject(&quot;btn_ok&quot;))"/>
+			<Prp name="message" type="S" value="The button was clicked with the left mouse button."/>
+		</Node>
+		<Node name="units">
+			<Prp name="unit 0" type="S" value="{BF490B1B-57A8-4145-8170-58AE5A67105D}"/>
+		</Node>
+		<Prp name="status" type="I" value="0"/>
+	</Node>
+</Nodes>
